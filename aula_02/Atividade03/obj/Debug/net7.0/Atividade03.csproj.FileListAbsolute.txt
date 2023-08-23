@@ -1,0 +1,14 @@
+C:\Users\Computador\Desktop\csharp\aula_02\Atividade03\bin\Debug\net7.0\Atividade03.exe
+C:\Users\Computador\Desktop\csharp\aula_02\Atividade03\bin\Debug\net7.0\Atividade03.deps.json
+C:\Users\Computador\Desktop\csharp\aula_02\Atividade03\bin\Debug\net7.0\Atividade03.runtimeconfig.json
+C:\Users\Computador\Desktop\csharp\aula_02\Atividade03\bin\Debug\net7.0\Atividade03.dll
+C:\Users\Computador\Desktop\csharp\aula_02\Atividade03\bin\Debug\net7.0\Atividade03.pdb
+C:\Users\Computador\Desktop\csharp\aula_02\Atividade03\obj\Debug\net7.0\Atividade03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computador\Desktop\csharp\aula_02\Atividade03\obj\Debug\net7.0\Atividade03.AssemblyInfoInputs.cache
+C:\Users\Computador\Desktop\csharp\aula_02\Atividade03\obj\Debug\net7.0\Atividade03.AssemblyInfo.cs
+C:\Users\Computador\Desktop\csharp\aula_02\Atividade03\obj\Debug\net7.0\Atividade03.csproj.CoreCompileInputs.cache
+C:\Users\Computador\Desktop\csharp\aula_02\Atividade03\obj\Debug\net7.0\Atividade03.dll
+C:\Users\Computador\Desktop\csharp\aula_02\Atividade03\obj\Debug\net7.0\refint\Atividade03.dll
+C:\Users\Computador\Desktop\csharp\aula_02\Atividade03\obj\Debug\net7.0\Atividade03.pdb
+C:\Users\Computador\Desktop\csharp\aula_02\Atividade03\obj\Debug\net7.0\Atividade03.genruntimeconfig.cache
+C:\Users\Computador\Desktop\csharp\aula_02\Atividade03\obj\Debug\net7.0\ref\Atividade03.dll
