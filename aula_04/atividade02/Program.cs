@@ -19,14 +19,9 @@
                 {
                     impar++;
                 }
-
             }
             Console.WriteLine($"Total de números pares: {par} ");
             Console.WriteLine($"Total de números impares: {impar} ");
-
-
-
-
         }
     }
 }
