@@ -40,6 +40,7 @@ namespace atividade04
 
                 } while (genero < 1 || genero > 6);
 
+
                 if (dev == 1)
                     back++;
 
