@@ -24,7 +24,7 @@
 
             media = (nota1 + nota2 + nota3 + nota4)/4;
 
-            Console.WriteLine("Média do aluno "+ nomealuno + "é:" + media);
+            Console.WriteLine("Média do aluno "+ nomealuno + " é:" + media);
          
         }
     }

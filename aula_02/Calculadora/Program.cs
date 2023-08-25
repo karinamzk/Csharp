@@ -1,4 +1,6 @@
-﻿namespace Calculadora
+﻿using System.ComponentModel.Design;
+
+namespace Calculadora
 {
     internal class Program
     {
@@ -17,8 +19,16 @@
             Console.WriteLine($"{numero1} + {numero2} = " + (numero1 + numero2));
             Console.WriteLine($"{numero1} - {numero2} = " + (numero1 - numero2));
             Console.WriteLine($"{numero1} * {numero2} = " + (numero1 * numero2));
-            Console.WriteLine("{0:F} / {1:F} = {2:F2}", numero1, numero2, divisao);
-            Console.WriteLine(Math.Round(divisao, 2));
+            if (numero2 > 0)
+            {
+                Console.WriteLine("{0:F} / {1:F} = {2:F2}", numero1, numero2, divisao);
+            }
+            else
+            {
+                Console.WriteLine("Não existe Divisão por zero");
+            }
+            
+            //Console.WriteLine(Math.Round(divisao, 2));//
             Console.WriteLine($"{numero1} ^ {numero2} = " + Math.Pow(numero1, numero2));
             Console.WriteLine($"Raiz quadrada de {numero1} = " + Math.Sqrt(numero1));
             Console.WriteLine($"Raiz quadrada de {numero2} = " + Math.Sqrt(numero2));

@@ -19,7 +19,7 @@
             n4 = Convert.ToSingle(Console.ReadLine());
 
             cal = (n1 * n2) - (n3 * n4);
-            Console.WriteLine(cal);
+            Console.WriteLine(cal) ;
         }
     }
 }
