@@ -1,0 +1,14 @@
+C:\Users\Computador\Desktop\csharp\aula_04\tabuada\obj\Debug\net7.0\tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computador\Desktop\csharp\aula_04\tabuada\obj\Debug\net7.0\tabuada.AssemblyInfoInputs.cache
+C:\Users\Computador\Desktop\csharp\aula_04\tabuada\obj\Debug\net7.0\tabuada.AssemblyInfo.cs
+C:\Users\Computador\Desktop\csharp\aula_04\tabuada\obj\Debug\net7.0\tabuada.csproj.CoreCompileInputs.cache
+C:\Users\Computador\Desktop\csharp\aula_04\tabuada\bin\Debug\net7.0\tabuada.exe
+C:\Users\Computador\Desktop\csharp\aula_04\tabuada\bin\Debug\net7.0\tabuada.deps.json
+C:\Users\Computador\Desktop\csharp\aula_04\tabuada\bin\Debug\net7.0\tabuada.runtimeconfig.json
+C:\Users\Computador\Desktop\csharp\aula_04\tabuada\bin\Debug\net7.0\tabuada.dll
+C:\Users\Computador\Desktop\csharp\aula_04\tabuada\bin\Debug\net7.0\tabuada.pdb
+C:\Users\Computador\Desktop\csharp\aula_04\tabuada\obj\Debug\net7.0\tabuada.dll
+C:\Users\Computador\Desktop\csharp\aula_04\tabuada\obj\Debug\net7.0\refint\tabuada.dll
+C:\Users\Computador\Desktop\csharp\aula_04\tabuada\obj\Debug\net7.0\tabuada.pdb
+C:\Users\Computador\Desktop\csharp\aula_04\tabuada\obj\Debug\net7.0\tabuada.genruntimeconfig.cache
+C:\Users\Computador\Desktop\csharp\aula_04\tabuada\obj\Debug\net7.0\ref\tabuada.dll
