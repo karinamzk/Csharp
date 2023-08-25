@@ -6,7 +6,7 @@ namespace pesquisa
     {
         static void Main(string[] args)
         {
-            string nome, continua="S";
+            string? nome, continua="S";
             int idade, esporte, futebol = 0, voleimai18 = 0, basquetemen18 = 0;
 
             do
