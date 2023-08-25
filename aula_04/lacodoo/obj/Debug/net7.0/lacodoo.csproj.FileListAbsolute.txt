@@ -1,0 +1,14 @@
+C:\Users\Computador\Desktop\csharp\aula_04\lacodoo\bin\Debug\net7.0\lacodoo.exe
+C:\Users\Computador\Desktop\csharp\aula_04\lacodoo\bin\Debug\net7.0\lacodoo.deps.json
+C:\Users\Computador\Desktop\csharp\aula_04\lacodoo\bin\Debug\net7.0\lacodoo.runtimeconfig.json
+C:\Users\Computador\Desktop\csharp\aula_04\lacodoo\bin\Debug\net7.0\lacodoo.dll
+C:\Users\Computador\Desktop\csharp\aula_04\lacodoo\bin\Debug\net7.0\lacodoo.pdb
+C:\Users\Computador\Desktop\csharp\aula_04\lacodoo\obj\Debug\net7.0\lacodoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computador\Desktop\csharp\aula_04\lacodoo\obj\Debug\net7.0\lacodoo.AssemblyInfoInputs.cache
+C:\Users\Computador\Desktop\csharp\aula_04\lacodoo\obj\Debug\net7.0\lacodoo.AssemblyInfo.cs
+C:\Users\Computador\Desktop\csharp\aula_04\lacodoo\obj\Debug\net7.0\lacodoo.csproj.CoreCompileInputs.cache
+C:\Users\Computador\Desktop\csharp\aula_04\lacodoo\obj\Debug\net7.0\lacodoo.dll
+C:\Users\Computador\Desktop\csharp\aula_04\lacodoo\obj\Debug\net7.0\refint\lacodoo.dll
+C:\Users\Computador\Desktop\csharp\aula_04\lacodoo\obj\Debug\net7.0\lacodoo.pdb
+C:\Users\Computador\Desktop\csharp\aula_04\lacodoo\obj\Debug\net7.0\lacodoo.genruntimeconfig.cache
+C:\Users\Computador\Desktop\csharp\aula_04\lacodoo\obj\Debug\net7.0\ref\lacodoo.dll

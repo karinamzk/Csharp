@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34003.232
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanoSaude", "PlanoSaude.csproj", "{1580EEF0-A1AD-4B40-85C8-0DC1DCE7D8B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanoSaude", "PlanoSaude.csproj", "{1580EEF0-A1AD-4B40-85C8-0DC1DCE7D8B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RH", "..\RH\RH.csproj", "{1D6112A3-010A-4CF4-B78B-7CDA0599596E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RH", "..\RH\RH.csproj", "{1D6112A3-010A-4CF4-B78B-7CDA0599596E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notas", "..\Notas\Notas.csproj", "{5E3113BC-4667-4E32-A04E-B6E66311FD76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notas", "..\Notas\Notas.csproj", "{5E3113BC-4667-4E32-A04E-B6E66311FD76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade02", "..\Atividade02\Atividade02.csproj", "{83CBC48C-FC5B-4283-A59F-E29D42703B71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atividade02", "..\Atividade02\Atividade02.csproj", "{83CBC48C-FC5B-4283-A59F-E29D42703B71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade03", "..\Atividade03\Atividade03.csproj", "{B36FC918-CEE4-4082-B1AA-16D1B94BDB46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atividade03", "..\Atividade03\Atividade03.csproj", "{B36FC918-CEE4-4082-B1AA-16D1B94BDB46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade05", "..\Atividade05\Atividade05.csproj", "{F0AD8C43-DA6E-4600-AE74-F887B75C5DC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atividade05", "..\Atividade05\Atividade05.csproj", "{F0AD8C43-DA6E-4600-AE74-F887B75C5DC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade 06", "..\Atividade 06\Atividade 06.csproj", "{C072E55D-CD14-48FE-8B83-DC1E6A358013}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atividade 06", "..\Atividade 06\Atividade 06.csproj", "{C072E55D-CD14-48FE-8B83-DC1E6A358013}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex04", "Ex04\Ex04.csproj", "{89C03EF5-234F-4EB3-9489-8267A88F06F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{C072E55D-CD14-48FE-8B83-DC1E6A358013}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C072E55D-CD14-48FE-8B83-DC1E6A358013}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C072E55D-CD14-48FE-8B83-DC1E6A358013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89C03EF5-234F-4EB3-9489-8267A88F06F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89C03EF5-234F-4EB3-9489-8267A88F06F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89C03EF5-234F-4EB3-9489-8267A88F06F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89C03EF5-234F-4EB3-9489-8267A88F06F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
