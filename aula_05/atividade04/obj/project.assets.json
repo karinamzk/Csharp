@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Computador\\Desktop\\csharp\\aula_05\\atividade04\\atividade04.csproj",
-      "projectName": "atividade04",
-      "projectPath": "C:\\Users\\Computador\\Desktop\\csharp\\aula_05\\atividade04\\atividade04.csproj",
+      "projectUniqueName": "C:\\Users\\Computador\\Desktop\\csharp\\aula_05\\atividade04\\atividade03.csproj",
+      "projectName": "atividade03",
+      "projectPath": "C:\\Users\\Computador\\Desktop\\csharp\\aula_05\\atividade04\\atividade03.csproj",
       "packagesPath": "C:\\Users\\Computador\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Computador\\Desktop\\csharp\\aula_05\\atividade04\\obj\\",
       "projectStyle": "PackageReference",

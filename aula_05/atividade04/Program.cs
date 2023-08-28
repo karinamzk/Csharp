@@ -1,4 +1,4 @@
-﻿namespace atividade04
+﻿namespace atividade03
 {
     internal class Program
     {
@@ -15,14 +15,12 @@
                     matriz[linha, coluna] = Convert.ToInt32(Console.ReadLine());
                 }
             }
-
-            Console.WriteLine($"Elementos da Diagonal Principal são:{matriz[0, 0]}, {matriz[1, 1]},{matriz[2, 2]}:");
-            Console.WriteLine($"Elementos da Diagonal Segundária são:{matriz[2, 0]}, {matriz[1, 1]},{matriz[0, 2]}:");
+            Console.WriteLine($"Elementos da Diagonal Principal são:{matriz[0,0]},{matriz[1,1]},{matriz[2,2]}:");
+            Console.WriteLine($"Elementos da Diagonal Segundária são:{matriz[2,0]},{matriz[1,1]},{matriz[0,2]}:");
             resultado = matriz[0,0] + matriz[1,1] + matriz[2,2];
             resultado2 = matriz[2,0] + matriz[1,1] + matriz[0,2];
             Console.WriteLine($"Soma dos elementos da Diagonal principal: {resultado} ");
             Console.WriteLine($"Soma dos elementos da Diagonal segundaria:{resultado2} ");
-
         }   
     }
 }                         

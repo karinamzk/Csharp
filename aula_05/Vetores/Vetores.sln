@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matrizes", "..\Matrizes\Mat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade01", "..\Atividade01\Atividade01.csproj", "{4AA2A630-B76F-4158-82A0-0C07FB6A319F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atividade04", "..\atividade04\atividade04.csproj", "{09C573AC-A0EE-4BA8-914C-942511EE46A1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atividade03", "..\atividade04\atividade03.csproj", "{09C573AC-A0EE-4BA8-914C-942511EE46A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
