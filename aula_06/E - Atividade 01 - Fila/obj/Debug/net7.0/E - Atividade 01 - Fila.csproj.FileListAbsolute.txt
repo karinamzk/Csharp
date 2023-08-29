@@ -1,0 +1,14 @@
+C:\Users\Computador\Desktop\csharp\aula_06\E - Atividade 01 - Fila\bin\Debug\net7.0\E - Atividade 01 - Fila.exe
+C:\Users\Computador\Desktop\csharp\aula_06\E - Atividade 01 - Fila\bin\Debug\net7.0\E - Atividade 01 - Fila.deps.json
+C:\Users\Computador\Desktop\csharp\aula_06\E - Atividade 01 - Fila\bin\Debug\net7.0\E - Atividade 01 - Fila.runtimeconfig.json
+C:\Users\Computador\Desktop\csharp\aula_06\E - Atividade 01 - Fila\bin\Debug\net7.0\E - Atividade 01 - Fila.dll
+C:\Users\Computador\Desktop\csharp\aula_06\E - Atividade 01 - Fila\bin\Debug\net7.0\E - Atividade 01 - Fila.pdb
+C:\Users\Computador\Desktop\csharp\aula_06\E - Atividade 01 - Fila\obj\Debug\net7.0\E - Atividade 01 - Fila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computador\Desktop\csharp\aula_06\E - Atividade 01 - Fila\obj\Debug\net7.0\E - Atividade 01 - Fila.AssemblyInfoInputs.cache
+C:\Users\Computador\Desktop\csharp\aula_06\E - Atividade 01 - Fila\obj\Debug\net7.0\E - Atividade 01 - Fila.AssemblyInfo.cs
+C:\Users\Computador\Desktop\csharp\aula_06\E - Atividade 01 - Fila\obj\Debug\net7.0\E - Atividade 01 - Fila.csproj.CoreCompileInputs.cache
+C:\Users\Computador\Desktop\csharp\aula_06\E - Atividade 01 - Fila\obj\Debug\net7.0\E - Atividade 01 - Fila.dll
+C:\Users\Computador\Desktop\csharp\aula_06\E - Atividade 01 - Fila\obj\Debug\net7.0\refint\E - Atividade 01 - Fila.dll
+C:\Users\Computador\Desktop\csharp\aula_06\E - Atividade 01 - Fila\obj\Debug\net7.0\E - Atividade 01 - Fila.pdb
+C:\Users\Computador\Desktop\csharp\aula_06\E - Atividade 01 - Fila\obj\Debug\net7.0\E - Atividade 01 - Fila.genruntimeconfig.cache
+C:\Users\Computador\Desktop\csharp\aula_06\E - Atividade 01 - Fila\obj\Debug\net7.0\ref\E - Atividade 01 - Fila.dll

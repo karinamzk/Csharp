@@ -1,0 +1,14 @@
+C:\Users\Computador\Desktop\csharp\aula_06\Atividade 02 - Pilha\obj\Debug\net7.0\Atividade 02 - Pilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computador\Desktop\csharp\aula_06\Atividade 02 - Pilha\obj\Debug\net7.0\Atividade 02 - Pilha.AssemblyInfoInputs.cache
+C:\Users\Computador\Desktop\csharp\aula_06\Atividade 02 - Pilha\obj\Debug\net7.0\Atividade 02 - Pilha.AssemblyInfo.cs
+C:\Users\Computador\Desktop\csharp\aula_06\Atividade 02 - Pilha\obj\Debug\net7.0\Atividade 02 - Pilha.csproj.CoreCompileInputs.cache
+C:\Users\Computador\Desktop\csharp\aula_06\Atividade 02 - Pilha\bin\Debug\net7.0\Atividade 02 - Pilha.exe
+C:\Users\Computador\Desktop\csharp\aula_06\Atividade 02 - Pilha\bin\Debug\net7.0\Atividade 02 - Pilha.deps.json
+C:\Users\Computador\Desktop\csharp\aula_06\Atividade 02 - Pilha\bin\Debug\net7.0\Atividade 02 - Pilha.runtimeconfig.json
+C:\Users\Computador\Desktop\csharp\aula_06\Atividade 02 - Pilha\bin\Debug\net7.0\Atividade 02 - Pilha.dll
+C:\Users\Computador\Desktop\csharp\aula_06\Atividade 02 - Pilha\bin\Debug\net7.0\Atividade 02 - Pilha.pdb
+C:\Users\Computador\Desktop\csharp\aula_06\Atividade 02 - Pilha\obj\Debug\net7.0\Atividade 02 - Pilha.dll
+C:\Users\Computador\Desktop\csharp\aula_06\Atividade 02 - Pilha\obj\Debug\net7.0\refint\Atividade 02 - Pilha.dll
+C:\Users\Computador\Desktop\csharp\aula_06\Atividade 02 - Pilha\obj\Debug\net7.0\Atividade 02 - Pilha.pdb
+C:\Users\Computador\Desktop\csharp\aula_06\Atividade 02 - Pilha\obj\Debug\net7.0\Atividade 02 - Pilha.genruntimeconfig.cache
+C:\Users\Computador\Desktop\csharp\aula_06\Atividade 02 - Pilha\obj\Debug\net7.0\ref\Atividade 02 - Pilha.dll
