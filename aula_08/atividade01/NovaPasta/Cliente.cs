@@ -1,0 +1,92 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Globalization;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace atividade01.NovaPasta
+{
+    internal class Cliente
+    {
+        private string nome = string.Empty;
+        private int id;
+        private string cpf;
+        private string telefone;
+        private string email;
+
+        public Cliente(string nome, int id, string cpf, string telefone, string email)
+        {
+            this.nome = nome;
+            this.id = id;
+            this.cpf = cpf;
+            this.telefone = telefone;
+            this.email = email;
+        }
+
+        public string GetNome()
+        {
+            return nome;
+        }
+
+        public void SetNome(string nome)
+        {
+            this.nome = nome;
+        }
+
+
+        public int GetId() 
+        {
+            return id;  
+        }
+
+        public void SetId(int id)
+        {
+            this.id = id;
+        }
+
+
+        public string GetCpf()
+        {
+            return cpf;
+        }
+
+        public void SetCpf(string cpf)
+        {
+            this.cpf = cpf;
+        }
+
+
+        public string GetTelefone()
+        {
+            return telefone;
+        }
+        public void SetTelefone(string telefone)
+        {
+            this.telefone = telefone;
+        }
+
+
+        public string GetEmail()
+        {
+            return email;
+        }
+
+        public void SetEmail(string email)
+        {
+            this.email = email;
+        }
+
+        public void Visualizar()
+        {
+            Console.WriteLine("********************************");
+            Console.WriteLine("Dados do usuario");
+            Console.WriteLine("********************************");
+            Console.WriteLine($"Nome: {this.nome}");
+            Console.WriteLine($"Id : {this.id}");
+            Console.WriteLine($"CPF : {this.cpf}");
+            Console.WriteLine($"Telefone: {this.telefone}");
+            Console.WriteLine($"Email : {this.email}");
+        }
+    }
+}

@@ -1,0 +1,21 @@
+C:\Users\Computador\Desktop\csharp\aula_07\Métodos\obj\Debug\net7.0\Métodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computador\Desktop\csharp\aula_07\Métodos\obj\Debug\net7.0\Métodos.AssemblyInfoInputs.cache
+C:\Users\Computador\Desktop\csharp\aula_07\Métodos\obj\Debug\net7.0\Métodos.AssemblyInfo.cs
+C:\Users\Computador\Desktop\csharp\aula_07\Métodos\obj\Debug\net7.0\Métodos.csproj.CoreCompileInputs.cache
+C:\Users\Computador\Desktop\csharp\aula_07\Métodos\bin\Debug\net7.0\Métodos 02.deps.json
+C:\Users\Computador\Desktop\csharp\aula_07\Métodos\bin\Debug\net7.0\Métodos 02.runtimeconfig.json
+C:\Users\Computador\Desktop\csharp\aula_07\Métodos\bin\Debug\net7.0\Métodos 02.exe
+C:\Users\Computador\Desktop\csharp\aula_07\Métodos\bin\Debug\net7.0\Métodos.exe
+C:\Users\Computador\Desktop\csharp\aula_07\Métodos\bin\Debug\net7.0\Métodos.deps.json
+C:\Users\Computador\Desktop\csharp\aula_07\Métodos\bin\Debug\net7.0\Métodos.runtimeconfig.json
+C:\Users\Computador\Desktop\csharp\aula_07\Métodos\bin\Debug\net7.0\Métodos.dll
+C:\Users\Computador\Desktop\csharp\aula_07\Métodos\bin\Debug\net7.0\Métodos.pdb
+C:\Users\Computador\Desktop\csharp\aula_07\Métodos\bin\Debug\net7.0\Métodos 02.dll
+C:\Users\Computador\Desktop\csharp\aula_07\Métodos\bin\Debug\net7.0\Métodos 02.pdb
+C:\Users\Computador\Desktop\csharp\aula_07\Métodos\obj\Debug\net7.0\Métodos.csproj.AssemblyReference.cache
+C:\Users\Computador\Desktop\csharp\aula_07\Métodos\obj\Debug\net7.0\Métodos.csproj.CopyComplete
+C:\Users\Computador\Desktop\csharp\aula_07\Métodos\obj\Debug\net7.0\Métodos.dll
+C:\Users\Computador\Desktop\csharp\aula_07\Métodos\obj\Debug\net7.0\refint\Métodos.dll
+C:\Users\Computador\Desktop\csharp\aula_07\Métodos\obj\Debug\net7.0\Métodos.pdb
+C:\Users\Computador\Desktop\csharp\aula_07\Métodos\obj\Debug\net7.0\Métodos.genruntimeconfig.cache
+C:\Users\Computador\Desktop\csharp\aula_07\Métodos\obj\Debug\net7.0\ref\Métodos.dll

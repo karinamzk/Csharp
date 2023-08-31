@@ -41,18 +41,13 @@
                 }
 
                 if (opcao == 3)
-                {
-
-                    if (fila != null)
-                    {
-                        Console.WriteLine("A fila está vazia! ");
-                    }
-                    for(int i = 0; i <= 0; i++)
-                    {
-                        Console.WriteLine("Retirar cliente da lista: ");
-                        fila.Dequeue();
-                    }
-                }
+                    
+                        for (int i = 0; i <= 0; i++)
+                        {
+                            Console.WriteLine("Retirar cliente da lista: ");
+                            fila.Dequeue();
+                        }
+                
                 if (opcao == 0 )
                 {
                     for (int i = 0; i <= 0; i++)
