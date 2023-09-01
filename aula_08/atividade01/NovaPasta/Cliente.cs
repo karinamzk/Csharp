@@ -7,19 +7,19 @@ using System.Threading.Tasks;
 
 namespace atividade01.NovaPasta
 {
-    internal class Cliente
+    public class Cliente
     {
         private string nome = string.Empty;
         private int id;
-        private string cpf;
+        private string nascimento;
         private string telefone;
         private string email;
 
-        public Cliente(string nome, int id, string cpf, string telefone, string email)
+        public Cliente(string nome, int id, string nascimento, string telefone, string email)
         {
             this.nome = nome;
             this.id = id;
-            this.cpf = cpf;
+            this.nascimento = nascimento;
             this.telefone = telefone;
             this.email = email;
         }
@@ -46,14 +46,14 @@ namespace atividade01.NovaPasta
         }
 
 
-        public string GetCpf()
+        public string GetNascimento()
         {
-            return cpf;
+            return nascimento;
         }
 
-        public void SetCpf(string cpf)
+        public void SetNascimento(string nascimento)
         {
-            this.cpf = cpf;
+            this.nascimento = nascimento;
         }
 
 
@@ -77,14 +77,14 @@ namespace atividade01.NovaPasta
             this.email = email;
         }
 
-        public void Visualizar()
+        public virtual void Visualizar()
         {
             Console.WriteLine("********************************");
             Console.WriteLine("Dados do usuario");
             Console.WriteLine("********************************");
             Console.WriteLine($"Nome: {this.nome}");
             Console.WriteLine($"Id : {this.id}");
-            Console.WriteLine($"CPF : {this.cpf}");
+            Console.WriteLine($"Data de nascimento : {this.nascimento}");
             Console.WriteLine($"Telefone: {this.telefone}");
             Console.WriteLine($"Email : {this.email}");
         }

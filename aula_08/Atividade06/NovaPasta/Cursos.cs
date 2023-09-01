@@ -74,7 +74,7 @@ namespace Atividade06.NovaPasta
             this.duracao = duracao;
         }
 
-        public void Visualizar()
+        public virtual void Visualizar()
         {
             Console.WriteLine("********************************");
             Console.WriteLine("Dados do Cursos");

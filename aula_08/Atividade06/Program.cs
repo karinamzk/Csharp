@@ -13,6 +13,16 @@ namespace Atividade06
             curso1.Visualizar();
 
             curso2.Visualizar();
+
+            CursoLivre Cl1 = new CursoLivre("Podcast","Curso Livre", 0003, 500, "6 horas", "B9-Podcast");
+
+            Cl1.Visualizar();
+            
+
+            CursoLivre Cl2 = new CursoLivre("Oficina de Escrita Literária","Curso Livre", 0004, 500, "2 encontros", "Editora Globo");
+
+            Cl2.Visualizar();
+
         }
     }
 }
